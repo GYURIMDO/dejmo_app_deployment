@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/dejmo_app_deployment/static/js/main.f532ad3d.js",
+    "static/js/453.d8e52b0d.chunk.js": "/dejmo_app_deployment/static/js/453.d8e52b0d.chunk.js",
+    "index.html": "/dejmo_app_deployment/index.html",
+    "main.f532ad3d.js.map": "/dejmo_app_deployment/static/js/main.f532ad3d.js.map",
+    "453.d8e52b0d.chunk.js.map": "/dejmo_app_deployment/static/js/453.d8e52b0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f532ad3d.js"
+  ]
+}
